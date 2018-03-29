@@ -1,0 +1,2 @@
+C:\Users\boyof\Documents\Win10WebViewCallCSharp-master\App1\App1.jsproj;x86
+C:\Users\boyof\Documents\Win10WebViewCallCSharp-master\ComOne\ComOne.csproj;x86

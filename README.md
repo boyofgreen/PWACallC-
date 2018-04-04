@@ -1,6 +1,6 @@
-# Win10WebViewCallCSharp
+# Win10 PWA calls C# API
 
-##A windows 10 webview calling a C# object through addweballowedobject
+##A windows 10 PWA calling a C# object through addweballowedobject
 
 In Windows 10, for both a webview and a hosted app, you can add a native component that you call directly from yoru web code.  A few steps are required:
 
